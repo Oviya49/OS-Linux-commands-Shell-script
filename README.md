@@ -43,11 +43,13 @@ s.n. dasgupta
 cat < file1
 ## OUTPUT
 
+![Screenshot from 2024-02-22 09-35-09](https://github.com/Oviya49/OS-Linux-commands-Shell-script/assets/153576803/b654ffd8-badb-43eb-9ee8-08b8e6223444)
 
 
 cat < file2
 ## OUTPUT
 
+![Screenshot from 2024-02-22 09-50-33](https://github.com/Oviya49/OS-Linux-commands-Shell-script/assets/153576803/ea8c2c45-627e-41eb-907b-06d6654a7744)
 
 # Comparing Files
 cmp file1 file2
