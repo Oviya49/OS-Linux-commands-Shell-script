@@ -1437,7 +1437,7 @@ else
 fi
 ```
 ## OUTPUT 
-'''
+'''bash
 Enter the number
 45
 Number is NOT palindrome
