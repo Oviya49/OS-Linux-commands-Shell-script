@@ -1437,11 +1437,11 @@ else
 fi
 ```
 ## OUTPUT 
-'''bash
+
 Enter the number
 45
 Number is NOT palindrome
-'''bash
+
 
 # RESULT:
 The Commands are executed successfully.
